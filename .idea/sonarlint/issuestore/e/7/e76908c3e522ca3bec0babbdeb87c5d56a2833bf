@@ -1,0 +1,7 @@
+
+„
+java:S11927"bDefine a constant instead of duplicating this literal "Este atributo no puede ser nulo. " 8 times.(È…è¯ÿÿÿÿÿ8—ÊÖìÂ1
+i
+java:S1192"LDefine a constant instead of duplicating this literal "Desconocido" 7 times.(š­ŒÁ8—ÊÖìÂ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÒ¤€ùÿÿÿÿ8˜ÊÖìÂ1
+]	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(Åï©Û8¦ÊÖìÂ1
